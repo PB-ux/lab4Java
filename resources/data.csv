@@ -1,0 +1,12 @@
+тип_прогрессии,начальное_значение,шаг,количество_членов,формула
+arithmetic,3,4,7,a
+geometric,3,5,6,g
+arithmetic,2,23,2,a
+geometric,2,34,12,g
+arithmetic,3,4,7,a
+arithmetic,3,4,7,g
+arithmetic,3,4,7,a
+geometric,2,34,12,g
+geometric,2,34,12,a
+geometric,2,34,12,g
+geometric,2,34,12,a
